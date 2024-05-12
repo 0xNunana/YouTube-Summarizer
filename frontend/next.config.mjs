@@ -18,6 +18,10 @@ const nextConfig = {
                 hostname:'placehold.co',
             
               },
+              {
+                protocol:'https',
+                hostname:'ethical-leader-0d5e534981.media.strapiapp.com'
+              }
 
             ],
     }
