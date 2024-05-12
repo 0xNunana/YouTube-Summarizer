@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_layout_calendar_sections",
+  "info": {
+    "displayName": "Calendar section"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "eventcard": {
+      "displayName": "Card",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.card"
+    }
+  }
+}

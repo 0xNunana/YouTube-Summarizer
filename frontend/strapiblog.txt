@@ -1,0 +1,13 @@
+https://strapi.io/blog/epic-next-js-14-tutorial-part-4-how-to-handle-login-and-authentication-in-next-js?utm_campaign=DevRel%20Epic%20Next%20Course&utm_source=epic-next-post-4
+
+building the dashboard=> https://strapi.io/blog/epic-next-js-14-tutorial-part-5-file-upload-using-server-actions?utm_campaign=DevRel%20Epic%20Next%20Course&utm_source=epic-next-post-5
+
+
+
+open ai with langchain = https://strapi.io/blog/epic-next-js-14-tutorial-part-6-create-video-summary-with-next-js-and-open-ai?utm_campaign=DevRel%20Epic%20Next%20Course&utm_source=epic-next-6-post
+
+strapi middleware =https://strapi.io/blog/epic-next-js-14-tutorial-part-7-next-js-and-strapi-crud-permissions?utm_campaign=DevRel%20Epic%20Next%20Course&utm_source=epic-next-7-post
+
+search and pagination = https://strapi.io/blog/epic-next-js-14-tutorial-part-8-search-and-pagination-in-next-js?utm_campaign=DevRel%20Epic%20Next%20Course&utm_source=epic-next-8-post
+
+backend deployment = https://strapi.io/blog/epic-next-js-14-tutorial-part-9-backend-deployment-to-strapi-cloud?utm_campaign=DevRel%20Epic%20Next%20Course&utm_source=epic-next-9-post
