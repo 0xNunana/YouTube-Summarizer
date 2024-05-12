@@ -41,7 +41,7 @@ function transformData(data) {
   //   const prompt = PromptTemplate.fromTemplate(template);
   
   //   const model = new ChatOpenAI({
-  //     openAIApiKey:'sk-proj-YmmMPtsu3aGsyntmhU6PT3BlbkFJBg3MgxIjoxrMipXq1vey',
+  //     openAIApiKey:process.env.NEXT_PUBLIC_OPENAI_KEY,
   //     modelName: process.env.OPENAI_MODEL ?? "gpt-3.5-turbo",
   //     temperature: process.env.OPENAI_TEMPERATURE
   //       ? parseFloat(process.env.OPENAI_TEMPERATURE)
