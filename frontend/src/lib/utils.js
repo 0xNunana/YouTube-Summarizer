@@ -54,7 +54,7 @@ export const getStrapiData =async(path)=>{
     const baseUrl = getStrapiURL()
    
     try {
-      const response = await fetch(baseUrl + path,{cache:'no-store'})
+      const response = await fetch(baseUrl + path)
       const data = await response.json()
 
       const flattenedData = flattenAttributes(data)
